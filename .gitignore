@@ -13,5 +13,5 @@ Thumbs.db
 !/app/models
 !/app/database
 !/app/controllers
-!/app/routes
+!/app/routes.php
 /bootstrap
